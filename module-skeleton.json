@@ -1,0 +1,15 @@
+{
+  "repository": "module-real-estate-lettings-dart-desktop",
+  "capabilityKey": "liberusoftware/real-estate-lettings",
+  "presentation": "dart-desktop",
+  "package": "module_real_estate_lettings_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/real-estate/nextjs/lettings.md",
+  "presentationPlan": "projects/real-estate/features/lettings.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "real-estate"
+  ]
+}
